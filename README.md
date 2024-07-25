@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Augustus Yuki Yakana. Micronesian father of 4 and husband of more than 10 years, making a career switch into technology coming from Construction Safety. Born and raised in Pohnpei, in the Federated States of Micronesia, currently living
+- 👋 Hi, I’m Augustus Yuki Yakana, I am making a career switch into technology coming from Construction Safety. Born and raised in Pohnpei, in the Federated States of Micronesia, currently living
      in Wahiawa, Hawaii. Programming skills (as of Jan. 2024) include frontend web development technologies like HTML, CSS & JavaScript. I have recent experience (academic) using C# in Object Oriented Programming. I have basic use knowledge of Python
      as well. I plan to use Python as my go to language for backend code. I have a database course coming up next month and I cant wait to get started on it.
 - 👀 I’m interested in Web Development & Software Engineering, whether it be web apps, mobile apps, desktop software, websites, you name it.
