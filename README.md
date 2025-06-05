@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Augustus Yuki Yakana, I am making a career switch into technology coming from Construction Safety. Born and raised in Pohnpei, in the Federated States of Micronesia, currently living
+- 👋 Hi, I’m Augustus Yuki Yakana, I am making a career switch into technology coming from Occupational Safety & Health in the Construction industry. Born and raised in Pohnpei, in the Federated States of Micronesia, currently living
      in Wahiawa, Hawaii.
 - 👀 I’m interested in Web Development & Software Engineering, whether it be web apps, mobile apps, desktop software, websites, you name it.
 - 🌱 I’m currently learning Fullstack Software Development at BYU Pathway Worldwide. Also supplementing my learning with ZTM's Complete Web Developer Bootcamp.
